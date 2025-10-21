@@ -7,7 +7,7 @@
         "channel_name": "engineerprompt",
         "channel_link": "https:\/\/www.youtube.com\/@engineerprompt",
         "channel_image": "https:\/\/yt3.ggpht.com\/vhMNk7glc5VOkyiIjttJ1RcwHErqinDL4z1WmerIM8VU7WSCLAXJIB4lxe64MO3V3ZvVhbhJ6g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1761072524",
         "remove": 0
@@ -384,7 +384,7 @@
         "channel_name": "AIDailyBrief",
         "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
         "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "65 hours ago",
+        "hours_ago": "66 hours ago",
         "is_short": 0,
         "timestamp": "1760838361",
         "remove": 0
@@ -475,7 +475,7 @@
         "channel_name": "malvaAI",
         "channel_link": "https:\/\/www.youtube.com\/@malvaAI",
         "channel_image": "https:\/\/yt3.ggpht.com\/7xYIzjHUw7X4JsUjyrI2ywnrXzGDvl18Hhdi9MKzoIJkBQbitpBWzoC_5gAykHpjnP7-Wz-1cg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "78 hours ago",
+        "hours_ago": "79 hours ago",
         "is_short": 0,
         "timestamp": "1760791466",
         "remove": 0
@@ -514,7 +514,7 @@
         "channel_name": "LiamOttley",
         "channel_link": "https:\/\/www.youtube.com\/@LiamOttley",
         "channel_image": "https:\/\/yt3.ggpht.com\/QlE3Bn2UDZv2aRF5Slz2E5BoFscjFhJ8sDBJbGa93gbx5aMuuFdDSPX8SdgYSzybPPjlThrx8g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "81 hours ago",
+        "hours_ago": "82 hours ago",
         "is_short": 0,
         "timestamp": "1760780906",
         "remove": 0
@@ -569,19 +569,6 @@
         "hours_ago": "95 hours ago",
         "is_short": 0,
         "timestamp": "1760732949",
-        "remove": 0
-    },
-    {
-        "video_id": "Bs7sBbcwn60",
-        "video_title": "I Built an Entire App with OpenAI's Codex and 8 AI Agent Employees",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/Bs7sBbcwn60\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=Bs7sBbcwn60",
-        "channel_name": "GregIsenberg",
-        "channel_link": "https:\/\/www.youtube.com\/@GregIsenberg",
-        "channel_image": "https:\/\/yt3.ggpht.com\/5wiiTxMamM0NnCmGOt0iJ6eoVRmFLNIGF-BEiTZ_AVqaS02YIxAsB-2XY6xwLCUWQfoENG1MHKo=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1760730301",
         "remove": 0
     }
 ]
