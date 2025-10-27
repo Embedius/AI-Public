@@ -111,7 +111,7 @@
         "channel_name": "theAIsearch",
         "channel_link": "https:\/\/www.youtube.com\/@theAIsearch",
         "channel_image": "https:\/\/yt3.ggpht.com\/GV5UTW2IlP29PhsLKm65ue4LZYXxMyPV5YQdfE6GVgv9KH1_y_8kCirPGfpVn9yTJuNBvVHktEE=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "23 hours ago",
+        "hours_ago": "24 hours ago",
         "is_short": 0,
         "timestamp": "1761445396",
         "remove": 0
@@ -176,7 +176,7 @@
         "channel_name": "malvaAI",
         "channel_link": "https:\/\/www.youtube.com\/@malvaAI",
         "channel_image": "https:\/\/yt3.ggpht.com\/7xYIzjHUw7X4JsUjyrI2ywnrXzGDvl18Hhdi9MKzoIJkBQbitpBWzoC_5gAykHpjnP7-Wz-1cg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "36 hours ago",
+        "hours_ago": "37 hours ago",
         "is_short": 0,
         "timestamp": "1761398929",
         "remove": 0
@@ -423,7 +423,7 @@
         "channel_name": "airevolutionx",
         "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
         "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "77 hours ago",
+        "hours_ago": "78 hours ago",
         "is_short": 0,
         "timestamp": "1761250770",
         "remove": 0
@@ -504,19 +504,6 @@
         "hours_ago": "85 hours ago",
         "is_short": 0,
         "timestamp": "1761224445",
-        "remove": 0
-    },
-    {
-        "video_id": "XSECbTkgRl8",
-        "video_title": "This new AI edits any video! FREE & offline",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/XSECbTkgRl8\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=XSECbTkgRl8",
-        "channel_name": "theAIsearch",
-        "channel_link": "https:\/\/www.youtube.com\/@theAIsearch",
-        "channel_image": "https:\/\/yt3.ggpht.com\/GV5UTW2IlP29PhsLKm65ue4LZYXxMyPV5YQdfE6GVgv9KH1_y_8kCirPGfpVn9yTJuNBvVHktEE=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1761186436",
         "remove": 0
     }
 ]
