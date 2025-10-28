@@ -7,7 +7,7 @@
         "channel_name": "AIDailyBrief",
         "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
         "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1761659006",
         "remove": 0
@@ -462,7 +462,7 @@
         "channel_name": "futurepedia_io",
         "channel_link": "https:\/\/www.youtube.com\/@futurepedia_io",
         "channel_image": "https:\/\/yt3.ggpht.com\/7gpWN95XOZ-MO30txO1hyDUM9b830cX3mMANqWNVLVegO4LaoWueslV370g-8dBdkirYOKhUCw=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "91 hours ago",
+        "hours_ago": "92 hours ago",
         "is_short": 0,
         "timestamp": "1761331729",
         "remove": 0
@@ -504,19 +504,6 @@
         "hours_ago": "95 hours ago",
         "is_short": 0,
         "timestamp": "1761318001",
-        "remove": 0
-    },
-    {
-        "video_id": "rsuU_ueV0fo",
-        "video_title": "Anthropic Finally Solved AI Memory & More AI Use Cases",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/rsuU_ueV0fo\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=rsuU_ueV0fo",
-        "channel_name": "aiadvantage",
-        "channel_link": "https:\/\/www.youtube.com\/@aiadvantage",
-        "channel_image": "https:\/\/yt3.ggpht.com\/DvaUGxvtI8_VHscLePaF-JO0kMrzluLkGQWDIOtbHvAkmlRaX_gh3YATlFu8046lrNjBQ0cmIw=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1761317282",
         "remove": 0
     }
 ]
