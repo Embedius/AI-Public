@@ -7,7 +7,7 @@
         "channel_name": "malvaAI",
         "channel_link": "https:\/\/www.youtube.com\/@malvaAI",
         "channel_image": "https:\/\/yt3.ggpht.com\/7xYIzjHUw7X4JsUjyrI2ywnrXzGDvl18Hhdi9MKzoIJkBQbitpBWzoC_5gAykHpjnP7-Wz-1cg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1761748308",
         "remove": 0
@@ -20,7 +20,7 @@
         "channel_name": "TechTutorZones",
         "channel_link": "https:\/\/www.youtube.com\/@TechTutorZones",
         "channel_image": "https:\/\/yt3.ggpht.com\/g_oaepy38hNl9CCQJKnq6A8L1YinY0FsQig53tgAWaXIQ0wP7nQvAxNjU8-FlQ_pY2Gelauw-Bk=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
+        "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1761745142",
         "remove": 0
@@ -72,7 +72,7 @@
         "channel_name": "AIDailyBrief",
         "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
         "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "14 hours ago",
+        "hours_ago": "15 hours ago",
         "is_short": 0,
         "timestamp": "1761697786",
         "remove": 0
@@ -241,7 +241,7 @@
         "channel_name": "engineerprompt",
         "channel_link": "https:\/\/www.youtube.com\/@engineerprompt",
         "channel_image": "https:\/\/yt3.ggpht.com\/vhMNk7glc5VOkyiIjttJ1RcwHErqinDL4z1WmerIM8VU7WSCLAXJIB4lxe64MO3V3ZvVhbhJ6g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "26 hours ago",
+        "hours_ago": "27 hours ago",
         "is_short": 0,
         "timestamp": "1761654684",
         "remove": 0
@@ -267,7 +267,7 @@
         "channel_name": "RoboNuggets",
         "channel_link": "https:\/\/www.youtube.com\/@RoboNuggets",
         "channel_image": "https:\/\/yt3.ggpht.com\/mIeH8O3QffYUPITAAhUGoeUhN_4fTWnVRdZvSThNYyrXc4R17LPNclHNoQ6fEX68lTOIxRo-OQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "30 hours ago",
+        "hours_ago": "31 hours ago",
         "is_short": 0,
         "timestamp": "1761640403",
         "remove": 0
@@ -306,7 +306,7 @@
         "channel_name": "theAIsearch",
         "channel_link": "https:\/\/www.youtube.com\/@theAIsearch",
         "channel_image": "https:\/\/yt3.ggpht.com\/GV5UTW2IlP29PhsLKm65ue4LZYXxMyPV5YQdfE6GVgv9KH1_y_8kCirPGfpVn9yTJuNBvVHktEE=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "36 hours ago",
+        "hours_ago": "37 hours ago",
         "is_short": 0,
         "timestamp": "1761618951",
         "remove": 0
@@ -397,7 +397,7 @@
         "channel_name": "ludovitnastisin",
         "channel_link": "https:\/\/www.youtube.com\/@ludovitnastisin",
         "channel_image": "https:\/\/yt3.ggpht.com\/PkF2wFQWn8B8I0J4BhJFsWLpRlSo-zMgu-rZ7s6DN3-3GDVRXeEMAkZL6REL_03HWMUaQOI4=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "53 hours ago",
+        "hours_ago": "54 hours ago",
         "is_short": 0,
         "timestamp": "1761557703",
         "remove": 0
@@ -410,7 +410,7 @@
         "channel_name": "airevolutionx",
         "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
         "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "63 hours ago",
+        "hours_ago": "64 hours ago",
         "is_short": 0,
         "timestamp": "1761521356",
         "remove": 0
@@ -436,7 +436,7 @@
         "channel_name": "malvaAI",
         "channel_link": "https:\/\/www.youtube.com\/@malvaAI",
         "channel_image": "https:\/\/yt3.ggpht.com\/7xYIzjHUw7X4JsUjyrI2ywnrXzGDvl18Hhdi9MKzoIJkBQbitpBWzoC_5gAykHpjnP7-Wz-1cg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "68 hours ago",
+        "hours_ago": "69 hours ago",
         "is_short": 0,
         "timestamp": "1761503369",
         "remove": 0
@@ -530,19 +530,6 @@
         "hours_ago": "89 hours ago",
         "is_short": 0,
         "timestamp": "1761430627",
-        "remove": 0
-    },
-    {
-        "video_id": "zRcypAoR7Gc",
-        "video_title": "Meta Cuts 600 AI Roles",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/zRcypAoR7Gc\/hqdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=zRcypAoR7Gc",
-        "channel_name": "AIDailyBrief",
-        "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
-        "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1761406566",
         "remove": 0
     }
 ]
