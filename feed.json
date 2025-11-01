@@ -124,7 +124,7 @@
         "channel_name": "curiousrefuge",
         "channel_link": "https:\/\/www.youtube.com\/@curiousrefuge",
         "channel_image": "https:\/\/yt3.ggpht.com\/p_nYTybWnt_KpbcggIOrwASuFknlTDcBC-_zUZtGXf1jBkZTaMO4Ns1s07-s50k7Do9D2mH9=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "24 hours ago",
+        "hours_ago": "25 hours ago",
         "is_short": 0,
         "timestamp": "1761940427",
         "remove": 0
@@ -140,6 +140,19 @@
         "hours_ago": "25 hours ago",
         "is_short": 0,
         "timestamp": "1761939657",
+        "remove": 0
+    },
+    {
+        "video_id": "-dmMcDrKB2A",
+        "video_title": "LTX 2 explained in 8 minutes (Best Open-Source Video Model)",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/-dmMcDrKB2A\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=-dmMcDrKB2A",
+        "channel_name": "RandomAI_ss",
+        "channel_link": "https:\/\/www.youtube.com\/@RandomAI_ss",
+        "channel_image": "https:\/\/yt3.ggpht.com\/m7kAWoFf20YyJcKGof6b78nfIna-PYtmRESk_h3FlF-qMjjWmnm52pNlgBgaHIkwA6z5uD_J=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "26 hours ago",
+        "is_short": 0,
+        "timestamp": "1761935206",
         "remove": 0
     },
     {
@@ -332,7 +345,7 @@
         "channel_name": "MidjourneyExperience",
         "channel_link": "https:\/\/www.youtube.com\/@MidjourneyExperience",
         "channel_image": "https:\/\/yt3.ggpht.com\/5FkuZACLRvTFlc3SNpIuh0vHMK_d9dNqS1ktqJpwRpFs96SJuwyCYk1XMy4kHpRhkx3hnu4QXg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "52 hours ago",
+        "hours_ago": "53 hours ago",
         "is_short": 0,
         "timestamp": "1761839422",
         "remove": 0
@@ -449,7 +462,7 @@
         "channel_name": "TwoMinutePapers",
         "channel_link": "https:\/\/www.youtube.com\/@TwoMinutePapers",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_ljAkSpv16cJNUsE_rI1X-Kz9s78w1WNojUga-aZ1uVzEQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "74 hours ago",
+        "hours_ago": "75 hours ago",
         "is_short": 0,
         "timestamp": "1761760663",
         "remove": 0
@@ -608,19 +621,6 @@
         "hours_ago": "94 hours ago",
         "is_short": 0,
         "timestamp": "1761689571",
-        "remove": 0
-    },
-    {
-        "video_id": "aVfawxDj6uw",
-        "video_title": "How to Make a Professional AI Animated Film",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/aVfawxDj6uw\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=aVfawxDj6uw",
-        "channel_name": "curiousrefuge",
-        "channel_link": "https:\/\/www.youtube.com\/@curiousrefuge",
-        "channel_image": "https:\/\/yt3.ggpht.com\/p_nYTybWnt_KpbcggIOrwASuFknlTDcBC-_zUZtGXf1jBkZTaMO4Ns1s07-s50k7Do9D2mH9=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1761684887",
         "remove": 0
     }
 ]
