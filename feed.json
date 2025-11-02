@@ -111,7 +111,7 @@
         "channel_name": "RandomAI_ss",
         "channel_link": "https:\/\/www.youtube.com\/@RandomAI_ss",
         "channel_image": "https:\/\/yt3.ggpht.com\/m7kAWoFf20YyJcKGof6b78nfIna-PYtmRESk_h3FlF-qMjjWmnm52pNlgBgaHIkwA6z5uD_J=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "5 hours ago",
+        "hours_ago": "6 hours ago",
         "is_short": 0,
         "timestamp": "1762087233",
         "remove": 0
@@ -137,7 +137,7 @@
         "channel_name": "TechTutorZones",
         "channel_link": "https:\/\/www.youtube.com\/@TechTutorZones",
         "channel_image": "https:\/\/yt3.ggpht.com\/g_oaepy38hNl9CCQJKnq6A8L1YinY0FsQig53tgAWaXIQ0wP7nQvAxNjU8-FlQ_pY2Gelauw-Bk=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "25 hours ago",
+        "hours_ago": "26 hours ago",
         "is_short": 0,
         "timestamp": "1762014915",
         "remove": 0
@@ -202,7 +202,7 @@
         "channel_name": "WadeMcMaster",
         "channel_link": "https:\/\/www.youtube.com\/@WadeMcMaster",
         "channel_image": "https:\/\/yt3.ggpht.com\/1ZG1JDuIjuaYKdQ7GNxv2JVEOPT6wllFv-YTIU2-2uytBAvntGhcHRJZj8YgO7E1GAmhNR_1kQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "31 hours ago",
+        "hours_ago": "32 hours ago",
         "is_short": 0,
         "timestamp": "1761993021",
         "remove": 0
@@ -215,7 +215,7 @@
         "channel_name": "RoboNuggets",
         "channel_link": "https:\/\/www.youtube.com\/@RoboNuggets",
         "channel_image": "https:\/\/yt3.ggpht.com\/mIeH8O3QffYUPITAAhUGoeUhN_4fTWnVRdZvSThNYyrXc4R17LPNclHNoQ6fEX68lTOIxRo-OQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "36 hours ago",
+        "hours_ago": "37 hours ago",
         "is_short": 0,
         "timestamp": "1761975598",
         "remove": 0
@@ -267,7 +267,7 @@
         "channel_name": "aiadvantage",
         "channel_link": "https:\/\/www.youtube.com\/@aiadvantage",
         "channel_image": "https:\/\/yt3.ggpht.com\/DvaUGxvtI8_VHscLePaF-JO0kMrzluLkGQWDIOtbHvAkmlRaX_gh3YATlFu8046lrNjBQ0cmIw=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "46 hours ago",
+        "hours_ago": "47 hours ago",
         "is_short": 0,
         "timestamp": "1761939657",
         "remove": 0
@@ -468,19 +468,6 @@
         "remove": 0
     },
     {
-        "video_id": "9jNlg-I19xg",
-        "video_title": "Easy to Create Textures for Design Pros in Midjourney V7",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/9jNlg-I19xg\/hqdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=9jNlg-I19xg",
-        "channel_name": "MidjourneyExperience",
-        "channel_link": "https:\/\/www.youtube.com\/@MidjourneyExperience",
-        "channel_image": "https:\/\/yt3.ggpht.com\/5FkuZACLRvTFlc3SNpIuh0vHMK_d9dNqS1ktqJpwRpFs96SJuwyCYk1XMy4kHpRhkx3hnu4QXg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "74 hours ago",
-        "is_short": 0,
-        "timestamp": "1761839422",
-        "remove": 0
-    },
-    {
         "video_id": "G4yevS8-Ko8",
         "video_title": "Bulk Upload Amazon Merch Coffee Mugs for FREE w\/ Snap",
         "video_image": "https:\/\/i.ytimg.com\/vi\/G4yevS8-Ko8\/maxresdefault.jpg",
@@ -530,6 +517,19 @@
         "hours_ago": "77 hours ago",
         "is_short": 0,
         "timestamp": "1761829304",
+        "remove": 0
+    },
+    {
+        "video_id": "RElMkHcPtbY",
+        "video_title": "30 Days of Change | Midjourney News Oct 29th Recap",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/RElMkHcPtbY\/hqdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=RElMkHcPtbY",
+        "channel_name": "FutureTechPilot",
+        "channel_link": "https:\/\/www.youtube.com\/@FutureTechPilot",
+        "channel_image": "https:\/\/yt3.ggpht.com\/7PxvUtwA8sjuxwyTVDuAwmHYzvdA0VCHfmxvVipLeynuaAXK_Mh4v7f8-H7VOBzR4c3eev9Xbco=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "93 hours ago",
+        "is_short": 0,
+        "timestamp": "1761771548",
         "remove": 0
     },
     {
