@@ -13,6 +13,19 @@
         "remove": 0
     },
     {
+        "video_id": "sGCqGhwtLYI",
+        "video_title": "Wharton Finds AI is ROI Positive for 75% of Firms",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/sGCqGhwtLYI\/hqdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=sGCqGhwtLYI",
+        "channel_name": "AIDailyBrief",
+        "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
+        "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "Just now",
+        "is_short": 0,
+        "timestamp": "1762779096",
+        "remove": 0
+    },
+    {
         "video_id": "6x9igxH10wE",
         "video_title": "How to Make CGI-Style Ads With AI \u2014 Fast & Easy Workflow",
         "video_image": "https:\/\/i.ytimg.com\/vi\/6x9igxH10wE\/maxresdefault.jpg",
@@ -241,7 +254,7 @@
         "channel_name": "MattVidPro",
         "channel_link": "https:\/\/www.youtube.com\/@MattVidPro",
         "channel_image": "https:\/\/yt3.ggpht.com\/QIYXdEMD970-oV8nd2gKHxPlQ1-BOmJc7EJhgIGcQPlTFopvFPCHDzkyfZIfEFrdCs8wu2Gc8g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "64 hours ago",
+        "hours_ago": "65 hours ago",
         "is_short": 0,
         "timestamp": "1762548201",
         "remove": 0
@@ -306,7 +319,7 @@
         "channel_name": "AIForHumansShow",
         "channel_link": "https:\/\/www.youtube.com\/@AIForHumansShow",
         "channel_image": "https:\/\/yt3.ggpht.com\/N7gHh80WiWb3kE6tSz3WusSAgrHAI8BSk8dKM3a2aNHyM-nkAhkBju6LehXkoEKrHVaYItimBk8=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "70 hours ago",
+        "hours_ago": "71 hours ago",
         "is_short": 0,
         "timestamp": "1762526710",
         "remove": 0
@@ -319,7 +332,7 @@
         "channel_name": "engineerprompt",
         "channel_link": "https:\/\/www.youtube.com\/@engineerprompt",
         "channel_image": "https:\/\/yt3.ggpht.com\/vhMNk7glc5VOkyiIjttJ1RcwHErqinDL4z1WmerIM8VU7WSCLAXJIB4lxe64MO3V3ZvVhbhJ6g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "71 hours ago",
+        "hours_ago": "72 hours ago",
         "is_short": 0,
         "timestamp": "1762523104",
         "remove": 0
@@ -517,32 +530,6 @@
         "hours_ago": "95 hours ago",
         "is_short": 0,
         "timestamp": "1762437620",
-        "remove": 0
-    },
-    {
-        "video_id": "kuw83g0m1Jk",
-        "video_title": "Google Goes All-In on Vibe Coding with AI Studio",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/kuw83g0m1Jk\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=kuw83g0m1Jk",
-        "channel_name": "engineerprompt",
-        "channel_link": "https:\/\/www.youtube.com\/@engineerprompt",
-        "channel_image": "https:\/\/yt3.ggpht.com\/vhMNk7glc5VOkyiIjttJ1RcwHErqinDL4z1WmerIM8VU7WSCLAXJIB4lxe64MO3V3ZvVhbhJ6g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1762436705",
-        "remove": 0
-    },
-    {
-        "video_id": "u-F3Xgch3dc",
-        "video_title": "Forget Suno: This FREE Unlimited AI Makes Hit Songs in Seconds",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/u-F3Xgch3dc\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=u-F3Xgch3dc",
-        "channel_name": "malvaAI",
-        "channel_link": "https:\/\/www.youtube.com\/@malvaAI",
-        "channel_image": "https:\/\/yt3.ggpht.com\/7xYIzjHUw7X4JsUjyrI2ywnrXzGDvl18Hhdi9MKzoIJkBQbitpBWzoC_5gAykHpjnP7-Wz-1cg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1762436458",
         "remove": 0
     }
 ]
