@@ -228,7 +228,7 @@
         "channel_name": "airevolutionx",
         "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
         "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "38 hours ago",
+        "hours_ago": "39 hours ago",
         "is_short": 0,
         "timestamp": "1763336936",
         "remove": 0
@@ -241,7 +241,7 @@
         "channel_name": "TwoMinutePapers",
         "channel_link": "https:\/\/www.youtube.com\/@TwoMinutePapers",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_ljAkSpv16cJNUsE_rI1X-Kz9s78w1WNojUga-aZ1uVzEQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "45 hours ago",
+        "hours_ago": "46 hours ago",
         "is_short": 0,
         "timestamp": "1763311566",
         "remove": 0
@@ -517,19 +517,6 @@
         "hours_ago": "95 hours ago",
         "is_short": 0,
         "timestamp": "1763133754",
-        "remove": 0
-    },
-    {
-        "video_id": "YKdDdCRRQq4",
-        "video_title": "OpenAI Surprise Drops GPT-5.1 But Google Is Lurking",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/YKdDdCRRQq4\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=YKdDdCRRQq4",
-        "channel_name": "AIForHumansShow",
-        "channel_link": "https:\/\/www.youtube.com\/@AIForHumansShow",
-        "channel_image": "https:\/\/yt3.ggpht.com\/N7gHh80WiWb3kE6tSz3WusSAgrHAI8BSk8dKM3a2aNHyM-nkAhkBju6LehXkoEKrHVaYItimBk8=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1763131504",
         "remove": 0
     }
 ]
