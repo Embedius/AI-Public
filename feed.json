@@ -1,7 +1,20 @@
 [
     {
+        "video_id": "qOVEunPt7lQ",
+        "video_title": "How I EASILY created an AI SHORT FILM in a single day!",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/qOVEunPt7lQ\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=qOVEunPt7lQ",
+        "channel_name": "WadeMcMaster",
+        "channel_link": "https:\/\/www.youtube.com\/@WadeMcMaster",
+        "channel_image": "https:\/\/yt3.ggpht.com\/1ZG1JDuIjuaYKdQ7GNxv2JVEOPT6wllFv-YTIU2-2uytBAvntGhcHRJZj8YgO7E1GAmhNR_1kQ=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "Just now",
+        "is_short": 0,
+        "timestamp": "1763593602",
+        "remove": 0
+    },
+    {
         "video_id": "3j-uF7poStI",
-        "video_title": "Gemini 3 is just in another league. Demos, Hands on with Anti Gravity",
+        "video_title": "Google is Cooking! Gemini 3 in Demos, Hands on with Anti Gravity",
         "video_image": "https:\/\/i.ytimg.com\/vi\/3j-uF7poStI\/maxresdefault.jpg",
         "video_link": "https:\/\/www.youtube.com\/watch?v=3j-uF7poStI",
         "channel_name": "MattVidPro",
@@ -215,7 +228,7 @@
         "channel_name": "airevolutionx",
         "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
         "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "24 hours ago",
+        "hours_ago": "25 hours ago",
         "is_short": 0,
         "timestamp": "1763506483",
         "remove": 0
@@ -605,7 +618,7 @@
         "channel_name": "AIDailyBrief",
         "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
         "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "70 hours ago",
+        "hours_ago": "71 hours ago",
         "is_short": 0,
         "timestamp": "1763340991",
         "remove": 0
@@ -686,19 +699,6 @@
         "hours_ago": "92 hours ago",
         "is_short": 0,
         "timestamp": "1763263352",
-        "remove": 0
-    },
-    {
-        "video_id": "OA02eRm11JU",
-        "video_title": "China's New Photonic Quantum AI Chip Shocked the World: 1000\u00d7 Faster Than NVIDIA",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/OA02eRm11JU\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=OA02eRm11JU",
-        "channel_name": "airevolutionx",
-        "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
-        "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1763251084",
         "remove": 0
     }
 ]
