@@ -1,5 +1,18 @@
 [
     {
+        "video_id": "UH2_Sgeu4lc",
+        "video_title": "Gemini 3 just crushed everything",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/UH2_Sgeu4lc\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=UH2_Sgeu4lc",
+        "channel_name": "theAIsearch",
+        "channel_link": "https:\/\/www.youtube.com\/@theAIsearch",
+        "channel_image": "https:\/\/yt3.ggpht.com\/GV5UTW2IlP29PhsLKm65ue4LZYXxMyPV5YQdfE6GVgv9KH1_y_8kCirPGfpVn9yTJuNBvVHktEE=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "Just now",
+        "is_short": 0,
+        "timestamp": "1763525982",
+        "remove": 0
+    },
+    {
         "video_id": "0zisd6kIgPA",
         "video_title": "Using Gemini 3 To Create a $1,000,000+ Marketing Campaign!",
         "video_image": "https:\/\/i.ytimg.com\/vi\/0zisd6kIgPA\/maxresdefault.jpg",
@@ -20,7 +33,7 @@
         "channel_name": "airevolutionx",
         "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
         "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "5 hours ago",
+        "hours_ago": "6 hours ago",
         "is_short": 0,
         "timestamp": "1763506483",
         "remove": 0
@@ -410,7 +423,7 @@
         "channel_name": "AIDailyBrief",
         "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
         "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "51 hours ago",
+        "hours_ago": "52 hours ago",
         "is_short": 0,
         "timestamp": "1763340991",
         "remove": 0
@@ -501,7 +514,7 @@
         "channel_name": "airevolutionx",
         "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
         "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "76 hours ago",
+        "hours_ago": "77 hours ago",
         "is_short": 0,
         "timestamp": "1763251084",
         "remove": 0
@@ -514,7 +527,7 @@
         "channel_name": "RoboNuggets",
         "channel_link": "https:\/\/www.youtube.com\/@RoboNuggets",
         "channel_image": "https:\/\/yt3.ggpht.com\/mIeH8O3QffYUPITAAhUGoeUhN_4fTWnVRdZvSThNYyrXc4R17LPNclHNoQ6fEX68lTOIxRo-OQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "77 hours ago",
+        "hours_ago": "78 hours ago",
         "is_short": 0,
         "timestamp": "1763247448",
         "remove": 0
@@ -556,19 +569,6 @@
         "hours_ago": "86 hours ago",
         "is_short": 0,
         "timestamp": "1763215223",
-        "remove": 0
-    },
-    {
-        "video_id": "d602mwn_MMs",
-        "video_title": "How To Control Camera Angles Like a Pro!",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/d602mwn_MMs\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=d602mwn_MMs",
-        "channel_name": "openart_ai",
-        "channel_link": "https:\/\/www.youtube.com\/@openart_ai",
-        "channel_image": "https:\/\/yt3.ggpht.com\/p39dy5K7y1p4S83eyGKAIGtKq-z5-jjGCNJneNMMlP5nWS7YKgrGeG02PMWxZiTvEUFeTOWGseg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1763182431",
         "remove": 0
     }
 ]
