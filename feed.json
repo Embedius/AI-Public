@@ -1,5 +1,18 @@
 [
     {
+        "video_id": "Q24UKZSG8aQ",
+        "video_title": "AI dev 25 x NYC | Kay Zhu: How Genspark Built a Super Agent That Scales",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/Q24UKZSG8aQ\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=Q24UKZSG8aQ",
+        "channel_name": "Deeplearningai",
+        "channel_link": "https:\/\/www.youtube.com\/@Deeplearningai",
+        "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nS1r8vYA9YVt1AQB355iMbBJNMg0OJn0I4J53_4T9xAes=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "Just now",
+        "is_short": 0,
+        "timestamp": "1764889836",
+        "remove": 0
+    },
+    {
         "video_id": "Y-rQSxACvOg",
         "video_title": "AI Dev 25 x NYC | Joa\u0303o Moura: Design, Develop, and Deploy Multi Agent Systems with CrewAI",
         "video_image": "https:\/\/i.ytimg.com\/vi\/Y-rQSxACvOg\/maxresdefault.jpg",
@@ -124,7 +137,7 @@
         "channel_name": "elevenlabsio",
         "channel_link": "https:\/\/www.youtube.com\/@elevenlabsio",
         "channel_image": "https:\/\/yt3.ggpht.com\/c9ik7bc8n_f-W6XJKvBpiiCoDsQ7IKDruGZvxHAee5J8kFybBWWnj1TYAjJMF5x_a1Rrg5a31w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "5 hours ago",
+        "hours_ago": "6 hours ago",
         "is_short": 0,
         "timestamp": "1764870526",
         "remove": 0
@@ -189,7 +202,7 @@
         "channel_name": "malvaAI",
         "channel_link": "https:\/\/www.youtube.com\/@malvaAI",
         "channel_image": "https:\/\/yt3.ggpht.com\/7xYIzjHUw7X4JsUjyrI2ywnrXzGDvl18Hhdi9MKzoIJkBQbitpBWzoC_5gAykHpjnP7-Wz-1cg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "9 hours ago",
+        "hours_ago": "10 hours ago",
         "is_short": 0,
         "timestamp": "1764856091",
         "remove": 0
@@ -254,7 +267,7 @@
         "channel_name": "WadeMcMaster",
         "channel_link": "https:\/\/www.youtube.com\/@WadeMcMaster",
         "channel_image": "https:\/\/yt3.ggpht.com\/1ZG1JDuIjuaYKdQ7GNxv2JVEOPT6wllFv-YTIU2-2uytBAvntGhcHRJZj8YgO7E1GAmhNR_1kQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "20 hours ago",
+        "hours_ago": "21 hours ago",
         "is_short": 0,
         "timestamp": "1764816302",
         "remove": 0
@@ -267,7 +280,7 @@
         "channel_name": "airevolutionx",
         "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
         "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "22 hours ago",
+        "hours_ago": "23 hours ago",
         "is_short": 0,
         "timestamp": "1764809146",
         "remove": 0
@@ -488,7 +501,7 @@
         "channel_name": "FutureTechPilot",
         "channel_link": "https:\/\/www.youtube.com\/@FutureTechPilot",
         "channel_image": "https:\/\/yt3.ggpht.com\/7PxvUtwA8sjuxwyTVDuAwmHYzvdA0VCHfmxvVipLeynuaAXK_Mh4v7f8-H7VOBzR4c3eev9Xbco=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "33 hours ago",
+        "hours_ago": "34 hours ago",
         "is_short": 0,
         "timestamp": "1764769505",
         "remove": 0
@@ -634,19 +647,6 @@
         "hours_ago": "49 hours ago",
         "is_short": 0,
         "timestamp": "1764713257",
-        "remove": 0
-    },
-    {
-        "video_id": "H_2EL7F9YaA",
-        "video_title": "AI Dev 25 x NYC | Aditya Dave, John Pepino: Productionizing AI Capabilities in Finance",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/H_2EL7F9YaA\/hqdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=H_2EL7F9YaA",
-        "channel_name": "Deeplearningai",
-        "channel_link": "https:\/\/www.youtube.com\/@Deeplearningai",
-        "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nS1r8vYA9YVt1AQB355iMbBJNMg0OJn0I4J53_4T9xAes=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "49 hours ago",
-        "is_short": 0,
-        "timestamp": "1764712596",
         "remove": 0
     },
     {
@@ -839,7 +839,7 @@
         "channel_name": "aiadvantage",
         "channel_link": "https:\/\/www.youtube.com\/@aiadvantage",
         "channel_image": "https:\/\/yt3.ggpht.com\/DvaUGxvtI8_VHscLePaF-JO0kMrzluLkGQWDIOtbHvAkmlRaX_gh3YATlFu8046lrNjBQ0cmIw=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "74 hours ago",
+        "hours_ago": "75 hours ago",
         "is_short": 0,
         "timestamp": "1764621899",
         "remove": 0
@@ -878,7 +878,7 @@
         "channel_name": "GregIsenberg",
         "channel_link": "https:\/\/www.youtube.com\/@GregIsenberg",
         "channel_image": "https:\/\/yt3.ggpht.com\/5wiiTxMamM0NnCmGOt0iJ6eoVRmFLNIGF-BEiTZ_AVqaS02YIxAsB-2XY6xwLCUWQfoENG1MHKo=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "76 hours ago",
+        "hours_ago": "77 hours ago",
         "is_short": 0,
         "timestamp": "1764615000",
         "remove": 0
@@ -891,7 +891,7 @@
         "channel_name": "TechTutorZones",
         "channel_link": "https:\/\/www.youtube.com\/@TechTutorZones",
         "channel_image": "https:\/\/yt3.ggpht.com\/g_oaepy38hNl9CCQJKnq6A8L1YinY0FsQig53tgAWaXIQ0wP7nQvAxNjU8-FlQ_pY2Gelauw-Bk=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "77 hours ago",
+        "hours_ago": "78 hours ago",
         "is_short": 0,
         "timestamp": "1764611169",
         "remove": 0
@@ -904,7 +904,7 @@
         "channel_name": "woollyferncreative",
         "channel_link": "https:\/\/www.youtube.com\/@woollyferncreative",
         "channel_image": "https:\/\/yt3.ggpht.com\/VaJed0E0MZJktGADfoogu4kotJ1xHfYtpgCDTyOt9c2TrOBWl16c0EAN-toDDHwc7IphDd9V7g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "78 hours ago",
+        "hours_ago": "79 hours ago",
         "is_short": 0,
         "timestamp": "1764607696",
         "remove": 0
