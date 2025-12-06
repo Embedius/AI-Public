@@ -1,5 +1,18 @@
 [
     {
+        "video_id": "r7w8aGYGrME",
+        "video_title": "Microsoft Changing AI Targets?",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/r7w8aGYGrME\/hqdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=r7w8aGYGrME",
+        "channel_name": "AIDailyBrief",
+        "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
+        "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "4 hours ago",
+        "is_short": 0,
+        "timestamp": "1764994081",
+        "remove": 0
+    },
+    {
         "video_id": "5JMiNsV7P3Y",
         "video_title": "Anthropic just bought your favorite JS runtime...",
         "video_image": "https:\/\/i.ytimg.com\/vi\/5JMiNsV7P3Y\/maxresdefault.jpg",
@@ -10,6 +23,19 @@
         "hours_ago": "10 hours ago",
         "is_short": 0,
         "timestamp": "1764971031",
+        "remove": 0
+    },
+    {
+        "video_id": "aNifWzsFOq8",
+        "video_title": "Can Today's AI Replace 12% of Work?",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/aNifWzsFOq8\/hqdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=aNifWzsFOq8",
+        "channel_name": "AIDailyBrief",
+        "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
+        "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "10 hours ago",
+        "is_short": 0,
+        "timestamp": "1764970726",
         "remove": 0
     },
     {
@@ -85,7 +111,7 @@
         "channel_name": "Deeplearningai",
         "channel_link": "https:\/\/www.youtube.com\/@Deeplearningai",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nS1r8vYA9YVt1AQB355iMbBJNMg0OJn0I4J53_4T9xAes=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "11 hours ago",
+        "hours_ago": "12 hours ago",
         "is_short": 0,
         "timestamp": "1764966216",
         "remove": 0
@@ -169,6 +195,19 @@
         "remove": 0
     },
     {
+        "video_id": "VshP0bcTQDQ",
+        "video_title": "The Most Real Looking AI Avatars Yet (Kling 2.6 Avatar V2 Pro)",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/VshP0bcTQDQ\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=VshP0bcTQDQ",
+        "channel_name": "AdrianViralAIMarketing",
+        "channel_link": "https:\/\/www.youtube.com\/@AdrianViralAIMarketing",
+        "channel_image": "https:\/\/yt3.ggpht.com\/yQ2n7q3hUk7FjOf5SgbKtvSrXx1_gsiN8O20Q41ZbyCYqJOXrewKxK3pPCrT6hiT2AIOxYmc0w=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "13 hours ago",
+        "is_short": 0,
+        "timestamp": "1764961154",
+        "remove": 0
+    },
+    {
         "video_id": "rJYqzIdT3-k",
         "video_title": "The New Skywork AI Super Agent Just Destroyed ChatGPT\u2019s Test Scores\u2026 Here\u2019s The Cashflow Play",
         "video_image": "https:\/\/i.ytimg.com\/vi\/rJYqzIdT3-k\/maxresdefault.jpg",
@@ -179,6 +218,45 @@
         "hours_ago": "15 hours ago",
         "is_short": 0,
         "timestamp": "1764954973",
+        "remove": 0
+    },
+    {
+        "video_id": "iO844izo9kw",
+        "video_title": "You Are Being Told Contradictory Things About AI: 8 examples",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/iO844izo9kw\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=iO844izo9kw",
+        "channel_name": "AIExplained",
+        "channel_link": "https:\/\/www.youtube.com\/@aiexplained-official",
+        "channel_image": "https:\/\/yt3.ggpht.com\/GFuvgO3IZvs5XkYOxyLoWQto2lyY6-7Ob-7sfZRyoann4eBgvBMxuGgSVU1cvBgRCgAn41St7g=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "15 hours ago",
+        "is_short": 0,
+        "timestamp": "1764953647",
+        "remove": 0
+    },
+    {
+        "video_id": "gdExuNliO5U",
+        "video_title": "How to Turn One Image into Multiple Camera Angles with Nano Banana Pro",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/gdExuNliO5U\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=gdExuNliO5U",
+        "channel_name": "RandomAI_ss",
+        "channel_link": "https:\/\/www.youtube.com\/@RandomAI_ss",
+        "channel_image": "https:\/\/yt3.ggpht.com\/7XqvJe6KRh81mxw1HD_I2DVxJTPyt3yYm0CQB4dsS8rpVZNCNVaixsN7rdqf_tdGK-7y2mQ1=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "16 hours ago",
+        "is_short": 0,
+        "timestamp": "1764952069",
+        "remove": 0
+    },
+    {
+        "video_id": "HznQBF3t5PI",
+        "video_title": "DeepSeek is BACK & More AI News You Can Use",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/HznQBF3t5PI\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=HznQBF3t5PI",
+        "channel_name": "aiadvantage",
+        "channel_link": "https:\/\/www.youtube.com\/@aiadvantage",
+        "channel_image": "https:\/\/yt3.ggpht.com\/DvaUGxvtI8_VHscLePaF-JO0kMrzluLkGQWDIOtbHvAkmlRaX_gh3YATlFu8046lrNjBQ0cmIw=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "16 hours ago",
+        "is_short": 0,
+        "timestamp": "1764949111",
         "remove": 0
     },
     {
@@ -234,6 +312,19 @@
         "remove": 0
     },
     {
+        "video_id": "-KWqc_-NlRQ",
+        "video_title": "Stop Paying for ElevenLabs: New FREE & Unlimited AI Voice",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/-KWqc_-NlRQ\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=-KWqc_-NlRQ",
+        "channel_name": "malvaAI",
+        "channel_link": "https:\/\/www.youtube.com\/@malvaAI",
+        "channel_image": "https:\/\/yt3.ggpht.com\/7xYIzjHUw7X4JsUjyrI2ywnrXzGDvl18Hhdi9MKzoIJkBQbitpBWzoC_5gAykHpjnP7-Wz-1cg=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "18 hours ago",
+        "is_short": 0,
+        "timestamp": "1764942409",
+        "remove": 0
+    },
+    {
         "video_id": "mPUeU8oV9nE",
         "video_title": "will.i.am and Larry Jackson at the ElevenLabs Summit",
         "video_image": "https:\/\/i.ytimg.com\/vi\/mPUeU8oV9nE\/maxresdefault.jpg",
@@ -257,6 +348,45 @@
         "hours_ago": "33 hours ago",
         "is_short": 0,
         "timestamp": "1764889809",
+        "remove": 0
+    },
+    {
+        "video_id": "W-bRxxa7uaI",
+        "video_title": "Here's Why ChatGPT May Not Survive 2026",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/W-bRxxa7uaI\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=W-bRxxa7uaI",
+        "channel_name": "aiadvantage",
+        "channel_link": "https:\/\/www.youtube.com\/@aiadvantage",
+        "channel_image": "https:\/\/yt3.ggpht.com\/DvaUGxvtI8_VHscLePaF-JO0kMrzluLkGQWDIOtbHvAkmlRaX_gh3YATlFu8046lrNjBQ0cmIw=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "35 hours ago",
+        "is_short": 0,
+        "timestamp": "1764883154",
+        "remove": 0
+    },
+    {
+        "video_id": "3hOScFpSv80",
+        "video_title": "How To Use Google\u2019s Nano Banana Pro Inside Photoshop (Viral Results)",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/3hOScFpSv80\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=3hOScFpSv80",
+        "channel_name": "SebastienJefferies",
+        "channel_link": "https:\/\/www.youtube.com\/@SebastienJefferies",
+        "channel_image": "https:\/\/yt3.ggpht.com\/tuig5z248qj3DssUJ5NeH6kTIIheBkjp1cqRRcTwhafBjjpkszt40kFWVdmfhe3HmURaQZiJ=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "36 hours ago",
+        "is_short": 0,
+        "timestamp": "1764877067",
+        "remove": 0
+    },
+    {
+        "video_id": "MVeOia75D4Y",
+        "video_title": "Easy Midjourney Prompt Shortcuts",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/MVeOia75D4Y\/hqdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=MVeOia75D4Y",
+        "channel_name": "MidjourneyExperience",
+        "channel_link": "https:\/\/www.youtube.com\/@MidjourneyExperience",
+        "channel_image": "https:\/\/yt3.ggpht.com\/5FkuZACLRvTFlc3SNpIuh0vHMK_d9dNqS1ktqJpwRpFs96SJuwyCYk1XMy4kHpRhkx3hnu4QXg=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "38 hours ago",
+        "is_short": 0,
+        "timestamp": "1764872342",
         "remove": 0
     },
     {
@@ -286,6 +416,58 @@
         "remove": 0
     },
     {
+        "video_id": "2QoIFRaYVuY",
+        "video_title": "Real-time Speech-to-Text APIs for Voice Agents: Beyond WER to Real-World Performance",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/2QoIFRaYVuY\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=2QoIFRaYVuY",
+        "channel_name": "AssemblyAI",
+        "channel_link": "https:\/\/www.youtube.com\/@AssemblyAI",
+        "channel_image": "https:\/\/yt3.ggpht.com\/5z_-jPDKLrUlaxA0Ow7BRdIAwbh6YQYrqU3pd8Cm6okahuJ3BaawiEPpdWUhwE98v_j3ugUAbA=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "40 hours ago",
+        "is_short": 0,
+        "timestamp": "1764865361",
+        "remove": 0
+    },
+    {
+        "video_id": "RqrdnZbuEtM",
+        "video_title": "Kling 2.6 vs Veo 3.1 vs Sora 2: The Ultimate AI Video Generator Comparison",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/RqrdnZbuEtM\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=RqrdnZbuEtM",
+        "channel_name": "TechTutorZones",
+        "channel_link": "https:\/\/www.youtube.com\/@TechTutorZones",
+        "channel_image": "https:\/\/yt3.ggpht.com\/g_oaepy38hNl9CCQJKnq6A8L1YinY0FsQig53tgAWaXIQ0wP7nQvAxNjU8-FlQ_pY2Gelauw-Bk=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "40 hours ago",
+        "is_short": 0,
+        "timestamp": "1764864206",
+        "remove": 0
+    },
+    {
+        "video_id": "8GJcv-kTZrs",
+        "video_title": "OpenAI Preps New \"Garlic\" Model",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/8GJcv-kTZrs\/hqdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=8GJcv-kTZrs",
+        "channel_name": "AIDailyBrief",
+        "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
+        "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "41 hours ago",
+        "is_short": 0,
+        "timestamp": "1764859511",
+        "remove": 0
+    },
+    {
+        "video_id": "swdQ67B0vpE",
+        "video_title": "10 Fun AI Art Styles You Need To Try! (Vol 57)",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/swdQ67B0vpE\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=swdQ67B0vpE",
+        "channel_name": "WadeMcMaster",
+        "channel_link": "https:\/\/www.youtube.com\/@WadeMcMaster",
+        "channel_image": "https:\/\/yt3.ggpht.com\/1ZG1JDuIjuaYKdQ7GNxv2JVEOPT6wllFv-YTIU2-2uytBAvntGhcHRJZj8YgO7E1GAmhNR_1kQ=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "42 hours ago",
+        "is_short": 0,
+        "timestamp": "1764856887",
+        "remove": 0
+    },
+    {
         "video_id": "Nqks3Dp-ozs",
         "video_title": "How To Create Viral AI UGC Ads for Facebook (Step by Step) - Bandy AI",
         "video_image": "https:\/\/i.ytimg.com\/vi\/Nqks3Dp-ozs\/maxresdefault.jpg",
@@ -296,6 +478,19 @@
         "hours_ago": "42 hours ago",
         "is_short": 0,
         "timestamp": "1764856847",
+        "remove": 0
+    },
+    {
+        "video_id": "OkN-gou4yT8",
+        "video_title": "Stop Paying: Build ANY Tool with 1 Prompt (Free & Unlimited)",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/OkN-gou4yT8\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=OkN-gou4yT8",
+        "channel_name": "malvaAI",
+        "channel_link": "https:\/\/www.youtube.com\/@malvaAI",
+        "channel_image": "https:\/\/yt3.ggpht.com\/7xYIzjHUw7X4JsUjyrI2ywnrXzGDvl18Hhdi9MKzoIJkBQbitpBWzoC_5gAykHpjnP7-Wz-1cg=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "42 hours ago",
+        "is_short": 0,
+        "timestamp": "1764856091",
         "remove": 0
     },
     {
@@ -345,9 +540,35 @@
         "channel_name": "theAIsearch",
         "channel_link": "https:\/\/www.youtube.com\/@theAIsearch",
         "channel_image": "https:\/\/yt3.ggpht.com\/GV5UTW2IlP29PhsLKm65ue4LZYXxMyPV5YQdfE6GVgv9KH1_y_8kCirPGfpVn9yTJuNBvVHktEE=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "52 hours ago",
+        "hours_ago": "53 hours ago",
         "is_short": 0,
         "timestamp": "1764818708",
+        "remove": 0
+    },
+    {
+        "video_id": "FlueWTpO6sI",
+        "video_title": "Did Nano Banana Pro just CHANGE THE GAME for Graphic Designers?",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/FlueWTpO6sI\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=FlueWTpO6sI",
+        "channel_name": "WadeMcMaster",
+        "channel_link": "https:\/\/www.youtube.com\/@WadeMcMaster",
+        "channel_image": "https:\/\/yt3.ggpht.com\/1ZG1JDuIjuaYKdQ7GNxv2JVEOPT6wllFv-YTIU2-2uytBAvntGhcHRJZj8YgO7E1GAmhNR_1kQ=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "53 hours ago",
+        "is_short": 0,
+        "timestamp": "1764816302",
+        "remove": 0
+    },
+    {
+        "video_id": "wynsc6ZbvPQ",
+        "video_title": "Kling 2.6 vs Veo 3.1 \u2014 Creating $10,000 AI Video Ads Has Never Been This Easy",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/wynsc6ZbvPQ\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=wynsc6ZbvPQ",
+        "channel_name": "AdrianViralAIMarketing",
+        "channel_link": "https:\/\/www.youtube.com\/@AdrianViralAIMarketing",
+        "channel_image": "https:\/\/yt3.ggpht.com\/yQ2n7q3hUk7FjOf5SgbKtvSrXx1_gsiN8O20Q41ZbyCYqJOXrewKxK3pPCrT6hiT2AIOxYmc0w=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "57 hours ago",
+        "is_short": 0,
+        "timestamp": "1764803884",
         "remove": 0
     },
     {
@@ -361,6 +582,19 @@
         "hours_ago": "58 hours ago",
         "is_short": 0,
         "timestamp": "1764800101",
+        "remove": 0
+    },
+    {
+        "video_id": "0UP4l9kKlrU",
+        "video_title": "Generative Video Drops! Kling 2.6, o1, & NEW Models!",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/0UP4l9kKlrU\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=0UP4l9kKlrU",
+        "channel_name": "MattVidPro",
+        "channel_link": "https:\/\/www.youtube.com\/@MattVidPro",
+        "channel_image": "https:\/\/yt3.ggpht.com\/QIYXdEMD970-oV8nd2gKHxPlQ1-BOmJc7EJhgIGcQPlTFopvFPCHDzkyfZIfEFrdCs8wu2Gc8g=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "59 hours ago",
+        "is_short": 0,
+        "timestamp": "1764796842",
         "remove": 0
     },
     {
@@ -390,6 +624,32 @@
         "remove": 0
     },
     {
+        "video_id": "97wUekeD3tc",
+        "video_title": "Agentic AI is here - Let ChatGPT use N8N and Nanobanana for you (Instance-Level MCP full guide \ud83e\udd5a)",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/97wUekeD3tc\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=97wUekeD3tc",
+        "channel_name": "RoboNuggets",
+        "channel_link": "https:\/\/www.youtube.com\/@RoboNuggets",
+        "channel_image": "https:\/\/yt3.ggpht.com\/mIeH8O3QffYUPITAAhUGoeUhN_4fTWnVRdZvSThNYyrXc4R17LPNclHNoQ6fEX68lTOIxRo-OQ=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "60 hours ago",
+        "is_short": 0,
+        "timestamp": "1764793714",
+        "remove": 0
+    },
+    {
+        "video_id": "NWgGOIKkv50",
+        "video_title": "Kling O1: The Photoshop of AI Video? (10 Mind-Blowing Use Cases) Full Tutorial",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/NWgGOIKkv50\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=NWgGOIKkv50",
+        "channel_name": "TechTutorZones",
+        "channel_link": "https:\/\/www.youtube.com\/@TechTutorZones",
+        "channel_image": "https:\/\/yt3.ggpht.com\/g_oaepy38hNl9CCQJKnq6A8L1YinY0FsQig53tgAWaXIQ0wP7nQvAxNjU8-FlQ_pY2Gelauw-Bk=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "61 hours ago",
+        "is_short": 0,
+        "timestamp": "1764786708",
+        "remove": 0
+    },
+    {
         "video_id": "EL9FzwEirxc",
         "video_title": "How to make Christmas ads with AI (INSANE RESULTS)",
         "video_image": "https:\/\/i.ytimg.com\/vi\/EL9FzwEirxc\/maxresdefault.jpg",
@@ -403,16 +663,29 @@
         "remove": 0
     },
     {
-        "video_id": "vtM5WfSQZ_g",
-        "video_title": "China Just Made Veo 3 & Sora 2 UNCENSORED, FREE & UNLIMITED",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/vtM5WfSQZ_g\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=vtM5WfSQZ_g",
-        "channel_name": "brainprojectx",
-        "channel_link": "https:\/\/www.youtube.com\/@brainprojectx",
-        "channel_image": "https:\/\/yt3.ggpht.com\/u7k_buhaC8AChKl39KD24BEUfdbDcIuf0zJ4Sopp6pGsy2em5ZBixgY-YxLbjTQ7ZbJKZ7oivA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "63 hours ago",
+        "video_id": "g82rNlYYe8I",
+        "video_title": "OpenAI Declares Code Red",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/g82rNlYYe8I\/hqdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=g82rNlYYe8I",
+        "channel_name": "AIDailyBrief",
+        "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
+        "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "65 hours ago",
         "is_short": 0,
-        "timestamp": "1764779701",
+        "timestamp": "1764775481",
+        "remove": 0
+    },
+    {
+        "video_id": "O0uyyb2EKWw",
+        "video_title": "Kling 2.6 Pro is the future of cinema!!",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/O0uyyb2EKWw\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=O0uyyb2EKWw",
+        "channel_name": "SirioBerati",
+        "channel_link": "https:\/\/www.youtube.com\/@SirioBerati",
+        "channel_image": "https:\/\/yt3.ggpht.com\/QmevwbxK8r1nbpwdpCHIAG6n0anxziBrZoO9dufOD97VS_D7QoNt4QzndeU_rSzN5e661D46KvE=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "65 hours ago",
+        "is_short": 0,
+        "timestamp": "1764774070",
         "remove": 0
     },
     {
@@ -429,6 +702,58 @@
         "remove": 0
     },
     {
+        "video_id": "Dkj7Jqejfz0",
+        "video_title": "My Full Midjourney Video Course: Start to Finish",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/Dkj7Jqejfz0\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=Dkj7Jqejfz0",
+        "channel_name": "FutureTechPilot",
+        "channel_link": "https:\/\/www.youtube.com\/@FutureTechPilot",
+        "channel_image": "https:\/\/yt3.ggpht.com\/7PxvUtwA8sjuxwyTVDuAwmHYzvdA0VCHfmxvVipLeynuaAXK_Mh4v7f8-H7VOBzR4c3eev9Xbco=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "66 hours ago",
+        "is_short": 0,
+        "timestamp": "1764769505",
+        "remove": 0
+    },
+    {
+        "video_id": "WZzQNNdZ7vk",
+        "video_title": "Mistral 3: Europe's Answer to DeepSeek or Too Little, Too Late?",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/WZzQNNdZ7vk\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=WZzQNNdZ7vk",
+        "channel_name": "samwitteveenai",
+        "channel_link": "https:\/\/www.youtube.com\/@samwitteveenai",
+        "channel_image": "https:\/\/yt3.ggpht.com\/e_RPj4GPULtytcX-hBDLfczyrnig7FRdICa8BjtvaR1GRUs4BlaXBghqrUipqgjkyOdSpu1IJA=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "66 hours ago",
+        "is_short": 0,
+        "timestamp": "1764768639",
+        "remove": 0
+    },
+    {
+        "video_id": "kK86fgHfmes",
+        "video_title": "How to Make 2D AI Animations in 2025: Best Workflow",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/kK86fgHfmes\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=kK86fgHfmes",
+        "channel_name": "EmmanuelCrown",
+        "channel_link": "https:\/\/www.youtube.com\/@EmmanuelCrown",
+        "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_n5Zla5rbcoSuJQOxWeMNeESqIOlv3WgONmio0uLSYvxsz0=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "67 hours ago",
+        "is_short": 0,
+        "timestamp": "1764766897",
+        "remove": 0
+    },
+    {
+        "video_id": "-rmyEiRhL70",
+        "video_title": "Nano Banana Pro vs FLUX 2 Comparison: AI Image Battle 2025 - Side-by-Side Tests",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/-rmyEiRhL70\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=-rmyEiRhL70",
+        "channel_name": "AtomicGainsAi",
+        "channel_link": "https:\/\/www.youtube.com\/@AtomicGainsAi",
+        "channel_image": "https:\/\/yt3.ggpht.com\/JdkZNf_r691oNHHWFO7KjXrqcey1RC3mkQRaiin3RM878nHHNWp_8dmNjPM7gBGCvQx9pLODpA=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "67 hours ago",
+        "is_short": 0,
+        "timestamp": "1764766802",
+        "remove": 0
+    },
+    {
         "video_id": "WNzC884lc7c",
         "video_title": "Kling O1 is HERE: Create Cinematic AI Videos & VFX in Seconds",
         "video_image": "https:\/\/i.ytimg.com\/vi\/WNzC884lc7c\/maxresdefault.jpg",
@@ -442,16 +767,68 @@
         "remove": 0
     },
     {
-        "video_id": "zzBmvzR-URg",
-        "video_title": "The ONLY 7 Prompts You Need to Create Any AI Video",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/zzBmvzR-URg\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=zzBmvzR-URg",
-        "channel_name": "taoprompts",
-        "channel_link": "https:\/\/www.youtube.com\/@taoprompts",
-        "channel_image": "https:\/\/yt3.ggpht.com\/mh-LP5SCBO4ILlG3muwM7Y9veH-BREW-UVNdU_arMBz9X_6sWx_Q7bS7xGfOtJ4wKLJ5vNoxTw=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "67 hours ago",
+        "video_id": "KspxKZCX1aE",
+        "video_title": "FREE & UNLIMITED AI Video Generators (With SOUND!)",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/KspxKZCX1aE\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=KspxKZCX1aE",
+        "channel_name": "RandomAI_ss",
+        "channel_link": "https:\/\/www.youtube.com\/@RandomAI_ss",
+        "channel_image": "https:\/\/yt3.ggpht.com\/7XqvJe6KRh81mxw1HD_I2DVxJTPyt3yYm0CQB4dsS8rpVZNCNVaixsN7rdqf_tdGK-7y2mQ1=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "68 hours ago",
         "is_short": 0,
-        "timestamp": "1764765548",
+        "timestamp": "1764763242",
+        "remove": 0
+    },
+    {
+        "video_id": "qqf8zy4Hroo",
+        "video_title": "Create NEXT LEVEL Dynamic AI Videos with Nano Banana Pro!",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/qqf8zy4Hroo\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=qqf8zy4Hroo",
+        "channel_name": "WadeMcMaster",
+        "channel_link": "https:\/\/www.youtube.com\/@WadeMcMaster",
+        "channel_image": "https:\/\/yt3.ggpht.com\/1ZG1JDuIjuaYKdQ7GNxv2JVEOPT6wllFv-YTIU2-2uytBAvntGhcHRJZj8YgO7E1GAmhNR_1kQ=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "69 hours ago",
+        "is_short": 0,
+        "timestamp": "1764760962",
+        "remove": 0
+    },
+    {
+        "video_id": "0BI6Eqyifhg",
+        "video_title": "Gemini Made This Storytelling Architecture Collage in 10 Seconds",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/0BI6Eqyifhg\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=0BI6Eqyifhg",
+        "channel_name": "LandSpaceArchitecture",
+        "channel_link": "https:\/\/www.youtube.com\/@LandSpaceArchitecture",
+        "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_l-xhoSTetGIYFnmsAMo4k2P0GSM28zXKGXzEpwFMPteM8=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "80 hours ago",
+        "is_short": 0,
+        "timestamp": "1764721083",
+        "remove": 0
+    },
+    {
+        "video_id": "_5KLz7J7D04",
+        "video_title": "AI SHOWDOWN: Flux.2 Vs Nano Banana Pro - which is SUPERIOR?",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/_5KLz7J7D04\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=_5KLz7J7D04",
+        "channel_name": "WadeMcMaster",
+        "channel_link": "https:\/\/www.youtube.com\/@WadeMcMaster",
+        "channel_image": "https:\/\/yt3.ggpht.com\/1ZG1JDuIjuaYKdQ7GNxv2JVEOPT6wllFv-YTIU2-2uytBAvntGhcHRJZj8YgO7E1GAmhNR_1kQ=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "83 hours ago",
+        "is_short": 0,
+        "timestamp": "1764710404",
+        "remove": 0
+    },
+    {
+        "video_id": "htwnCsX4cIk",
+        "video_title": "Video AI: Perfect Motion Control with Kinetix",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/htwnCsX4cIk\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=htwnCsX4cIk",
+        "channel_name": "AI.NowYKnow",
+        "channel_link": "https:\/\/www.youtube.com\/@AI.NowYKnow",
+        "channel_image": "https:\/\/yt3.ggpht.com\/Bxj-iS9TR8QEVO_Pbg7G1TTlPa91rDRU9alc9b-bT1f6iyZpnsXmpi4g_C4L2Nc7rri8Xp2SR9Q=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "84 hours ago",
+        "is_short": 0,
+        "timestamp": "1764707186",
         "remove": 0
     },
     {
@@ -465,6 +842,58 @@
         "hours_ago": "85 hours ago",
         "is_short": 0,
         "timestamp": "1764700523",
+        "remove": 0
+    },
+    {
+        "video_id": "B65__qAbLFc",
+        "video_title": "Kling Releases New Pro IMAGE Editing (it is good!!)",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/B65__qAbLFc\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=B65__qAbLFc",
+        "channel_name": "SirioBerati",
+        "channel_link": "https:\/\/www.youtube.com\/@SirioBerati",
+        "channel_image": "https:\/\/yt3.ggpht.com\/QmevwbxK8r1nbpwdpCHIAG6n0anxziBrZoO9dufOD97VS_D7QoNt4QzndeU_rSzN5e661D46KvE=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "86 hours ago",
+        "is_short": 0,
+        "timestamp": "1764696839",
+        "remove": 0
+    },
+    {
+        "video_id": "0UPdkPoZPJw",
+        "video_title": "A Practical Guide to Scaling AI",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/0UPdkPoZPJw\/hqdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=0UPdkPoZPJw",
+        "channel_name": "AIDailyBrief",
+        "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
+        "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "88 hours ago",
+        "is_short": 0,
+        "timestamp": "1764691846",
+        "remove": 0
+    },
+    {
+        "video_id": "dkxIwf0UEQc",
+        "video_title": "Top 5 Best Free Ai Image Generators For 2026",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/dkxIwf0UEQc\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=dkxIwf0UEQc",
+        "channel_name": "PhilipAnders",
+        "channel_link": "https:\/\/www.youtube.com\/@PhilipAnders",
+        "channel_image": "https:\/\/yt3.ggpht.com\/ZvhtfNEUPtQv3sLp9esMrY4KZ899xlTHhirFcF6X1LoLJSCQIRDD80cILJcaw1czth7OdEL79Q=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "89 hours ago",
+        "is_short": 0,
+        "timestamp": "1764688506",
+        "remove": 0
+    },
+    {
+        "video_id": "axycQRyuFxw",
+        "video_title": "DeepSeek Speciale: How They Did It Again!",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/axycQRyuFxw\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=axycQRyuFxw",
+        "channel_name": "engineerprompt",
+        "channel_link": "https:\/\/www.youtube.com\/@engineerprompt",
+        "channel_image": "https:\/\/yt3.ggpht.com\/vhMNk7glc5VOkyiIjttJ1RcwHErqinDL4z1WmerIM8VU7WSCLAXJIB4lxe64MO3V3ZvVhbhJ6g=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "90 hours ago",
+        "is_short": 0,
+        "timestamp": "1764684007",
         "remove": 0
     },
     {
@@ -488,9 +917,22 @@
         "channel_name": "TwoMinutePapers",
         "channel_link": "https:\/\/www.youtube.com\/@TwoMinutePapers",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_ljAkSpv16cJNUsE_rI1X-Kz9s78w1WNojUga-aZ1uVzEQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "90 hours ago",
+        "hours_ago": "91 hours ago",
         "is_short": 0,
         "timestamp": "1764682071",
+        "remove": 0
+    },
+    {
+        "video_id": "SeeWad9PW48",
+        "video_title": "STOP Paying: Make LONG AI Videos (FREE & UNLIMITED)",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/SeeWad9PW48\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=SeeWad9PW48",
+        "channel_name": "malvaAI",
+        "channel_link": "https:\/\/www.youtube.com\/@malvaAI",
+        "channel_image": "https:\/\/yt3.ggpht.com\/7xYIzjHUw7X4JsUjyrI2ywnrXzGDvl18Hhdi9MKzoIJkBQbitpBWzoC_5gAykHpjnP7-Wz-1cg=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "92 hours ago",
+        "is_short": 0,
+        "timestamp": "1764676878",
         "remove": 0
     }
 ]
