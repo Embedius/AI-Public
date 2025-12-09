@@ -215,7 +215,7 @@
         "channel_name": "Dankieft",
         "channel_link": "https:\/\/www.youtube.com\/@Dankieft",
         "channel_image": "https:\/\/yt3.ggpht.com\/caF8kL4fTY7c_j5tnbldWnyUVNTpSBDbYVAXROGkeF4gc39Izlfwg1L7Yx2q4YA3pYWRNTP_=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "26 hours ago",
+        "hours_ago": "27 hours ago",
         "is_short": 0,
         "timestamp": "1765212729",
         "remove": 0
@@ -553,7 +553,7 @@
         "channel_name": "Deeplearningai",
         "channel_link": "https:\/\/www.youtube.com\/@Deeplearningai",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nS1r8vYA9YVt1AQB355iMbBJNMg0OJn0I4J53_4T9xAes=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "94 hours ago",
+        "hours_ago": "95 hours ago",
         "is_short": 0,
         "timestamp": "1764968188",
         "remove": 0
@@ -566,7 +566,7 @@
         "channel_name": "Deeplearningai",
         "channel_link": "https:\/\/www.youtube.com\/@Deeplearningai",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nS1r8vYA9YVt1AQB355iMbBJNMg0OJn0I4J53_4T9xAes=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "94 hours ago",
+        "hours_ago": "95 hours ago",
         "is_short": 0,
         "timestamp": "1764967996",
         "remove": 0
@@ -647,32 +647,6 @@
         "hours_ago": "95 hours ago",
         "is_short": 0,
         "timestamp": "1764965067",
-        "remove": 0
-    },
-    {
-        "video_id": "Axlesb8yTro",
-        "video_title": "AI Dev 25 x NYC | Param Singh: Building with Mistral: Open, Powerful, and Ready to Scale",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/Axlesb8yTro\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=Axlesb8yTro",
-        "channel_name": "Deeplearningai",
-        "channel_link": "https:\/\/www.youtube.com\/@Deeplearningai",
-        "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nS1r8vYA9YVt1AQB355iMbBJNMg0OJn0I4J53_4T9xAes=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1764964742",
-        "remove": 0
-    },
-    {
-        "video_id": "bttcJn58J24",
-        "video_title": "AI Dev 25 x NYC | Panel Discussion: Software Development in the Age of AI",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/bttcJn58J24\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=bttcJn58J24",
-        "channel_name": "Deeplearningai",
-        "channel_link": "https:\/\/www.youtube.com\/@Deeplearningai",
-        "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nS1r8vYA9YVt1AQB355iMbBJNMg0OJn0I4J53_4T9xAes=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1764964517",
         "remove": 0
     }
 ]
