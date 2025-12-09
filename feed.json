@@ -7,7 +7,7 @@
         "channel_name": "Fireship",
         "channel_link": "https:\/\/www.youtube.com\/@Fireship",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1765310318",
         "remove": 0
@@ -228,7 +228,7 @@
         "channel_name": "Dankieft",
         "channel_link": "https:\/\/www.youtube.com\/@Dankieft",
         "channel_image": "https:\/\/yt3.ggpht.com\/caF8kL4fTY7c_j5tnbldWnyUVNTpSBDbYVAXROGkeF4gc39Izlfwg1L7Yx2q4YA3pYWRNTP_=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "27 hours ago",
+        "hours_ago": "28 hours ago",
         "is_short": 0,
         "timestamp": "1765212729",
         "remove": 0
@@ -556,32 +556,6 @@
         "hours_ago": "95 hours ago",
         "is_short": 0,
         "timestamp": "1764970726",
-        "remove": 0
-    },
-    {
-        "video_id": "fGSpr8bHxcM",
-        "video_title": "AI Dev 25 x NYC | Tyler Slaton: Build User Facing Agentic Applications with AG UI",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/fGSpr8bHxcM\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=fGSpr8bHxcM",
-        "channel_name": "Deeplearningai",
-        "channel_link": "https:\/\/www.youtube.com\/@Deeplearningai",
-        "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nS1r8vYA9YVt1AQB355iMbBJNMg0OJn0I4J53_4T9xAes=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1764968188",
-        "remove": 0
-    },
-    {
-        "video_id": "8tg8z-Fi0MU",
-        "video_title": "AI Dev 25 x NYC | Tanveer Mittal, Utkarsh Lamba: Building with the Claude Agent SDK",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/8tg8z-Fi0MU\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=8tg8z-Fi0MU",
-        "channel_name": "Deeplearningai",
-        "channel_link": "https:\/\/www.youtube.com\/@Deeplearningai",
-        "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nS1r8vYA9YVt1AQB355iMbBJNMg0OJn0I4J53_4T9xAes=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1764967996",
         "remove": 0
     }
 ]
