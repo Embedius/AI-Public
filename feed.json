@@ -1,5 +1,18 @@
 [
     {
+        "video_id": "iAMFWSbOH7A",
+        "video_title": "The First TRUE AI Filmmaking Agent: Become a Full Movie Director",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/iAMFWSbOH7A\/hqdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=iAMFWSbOH7A",
+        "channel_name": "TechTutorZones",
+        "channel_link": "https:\/\/www.youtube.com\/@TechTutorZones",
+        "channel_image": "https:\/\/yt3.ggpht.com\/rdvEzPWkghMLq3l5FcSSnvehZXwx3OOBBxHDg7Qeyyfv8pX0JgvvXl-TV93YAFjiPP-I2vLX=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "Just now",
+        "is_short": 0,
+        "timestamp": "1765817005",
+        "remove": 0
+    },
+    {
         "video_id": "hv7OaTek5Ow",
         "video_title": "Building Ambient AI Medical Scribes: Best Practices",
         "video_image": "https:\/\/i.ytimg.com\/vi\/hv7OaTek5Ow\/maxresdefault.jpg",
@@ -46,7 +59,7 @@
         "channel_name": "AIDailyBrief",
         "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
         "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "2 hours ago",
+        "hours_ago": "3 hours ago",
         "is_short": 0,
         "timestamp": "1765807886",
         "remove": 0
@@ -124,7 +137,7 @@
         "channel_name": "PhilipAnders",
         "channel_link": "https:\/\/www.youtube.com\/@PhilipAnders",
         "channel_image": "https:\/\/yt3.ggpht.com\/ZvhtfNEUPtQv3sLp9esMrY4KZ899xlTHhirFcF6X1LoLJSCQIRDD80cILJcaw1czth7OdEL79Q=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "25 hours ago",
+        "hours_ago": "26 hours ago",
         "is_short": 0,
         "timestamp": "1765725304",
         "remove": 0
@@ -150,7 +163,7 @@
         "channel_name": "malvaAI",
         "channel_link": "https:\/\/www.youtube.com\/@malvaAI",
         "channel_image": "https:\/\/yt3.ggpht.com\/7xYIzjHUw7X4JsUjyrI2ywnrXzGDvl18Hhdi9MKzoIJkBQbitpBWzoC_5gAykHpjnP7-Wz-1cg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "27 hours ago",
+        "hours_ago": "28 hours ago",
         "is_short": 0,
         "timestamp": "1765717945",
         "remove": 0
@@ -215,7 +228,7 @@
         "channel_name": "airevolutionx",
         "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
         "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "40 hours ago",
+        "hours_ago": "41 hours ago",
         "is_short": 0,
         "timestamp": "1765671109",
         "remove": 0
@@ -306,7 +319,7 @@
         "channel_name": "Fireship",
         "channel_link": "https:\/\/www.youtube.com\/@Fireship",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "66 hours ago",
+        "hours_ago": "67 hours ago",
         "is_short": 0,
         "timestamp": "1765577950",
         "remove": 0
@@ -543,19 +556,6 @@
         "hours_ago": "95 hours ago",
         "is_short": 0,
         "timestamp": "1765474557",
-        "remove": 0
-    },
-    {
-        "video_id": "6hmykwuWmAQ",
-        "video_title": "Why Can't Midjourney Create Text Better?",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/6hmykwuWmAQ\/hqdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=6hmykwuWmAQ",
-        "channel_name": "MidjourneyExperience",
-        "channel_link": "https:\/\/www.youtube.com\/@MidjourneyExperience",
-        "channel_image": "https:\/\/yt3.ggpht.com\/5FkuZACLRvTFlc3SNpIuh0vHMK_d9dNqS1ktqJpwRpFs96SJuwyCYk1XMy4kHpRhkx3hnu4QXg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "95 hours ago",
-        "is_short": 0,
-        "timestamp": "1765473393",
         "remove": 0
     }
 ]
