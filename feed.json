@@ -1,5 +1,31 @@
 [
     {
+        "video_id": "XwofmyvJhNc",
+        "video_title": "Kling 2.6 vs Runway Gen 4.5 \u2013 Prompt Adherence, Stylistic Control and Visual Consistency",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/XwofmyvJhNc\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=XwofmyvJhNc",
+        "channel_name": "AI.NowYKnow",
+        "channel_link": "https:\/\/www.youtube.com\/@AI.NowYKnow",
+        "channel_image": "https:\/\/yt3.ggpht.com\/Bxj-iS9TR8QEVO_Pbg7G1TTlPa91rDRU9alc9b-bT1f6iyZpnsXmpi4g_C4L2Nc7rri8Xp2SR9Q=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "Just now",
+        "is_short": 0,
+        "timestamp": "1765938335",
+        "remove": 0
+    },
+    {
+        "video_id": "ADqxZY5rpHg",
+        "video_title": "Did ChatGPT Just Kill Nano Banana?",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/ADqxZY5rpHg\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=ADqxZY5rpHg",
+        "channel_name": "mreflow",
+        "channel_link": "https:\/\/www.youtube.com\/@mreflow",
+        "channel_image": "https:\/\/yt3.ggpht.com\/Xfsv8L8S4Dt2PPpgaexoMluK9gkm4H77TY-Sae7DbY8qKSaGI0FOS_uzw65kxVtdQlYvc02bB6k=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "Just now",
+        "is_short": 0,
+        "timestamp": "1765938032",
+        "remove": 0
+    },
+    {
         "video_id": "E2NdvwVIaSM",
         "video_title": "I Perfected the $50K AI Image Creative Formula (ChatGPT 1.5 + Nano Banana Pro)",
         "video_image": "https:\/\/i.ytimg.com\/vi\/E2NdvwVIaSM\/maxresdefault.jpg",
@@ -20,7 +46,7 @@
         "channel_name": "aiadvantage",
         "channel_link": "https:\/\/www.youtube.com\/@aiadvantage",
         "channel_image": "https:\/\/yt3.ggpht.com\/DvaUGxvtI8_VHscLePaF-JO0kMrzluLkGQWDIOtbHvAkmlRaX_gh3YATlFu8046lrNjBQ0cmIw=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "2 hours ago",
+        "hours_ago": "3 hours ago",
         "is_short": 0,
         "timestamp": "1765929279",
         "remove": 0
@@ -124,7 +150,7 @@
         "channel_name": "PiXimperfect",
         "channel_link": "https:\/\/www.youtube.com\/@PiXimperfect",
         "channel_image": "https:\/\/yt3.ggpht.com\/5_3VwTn9YD0bH3TtcY8ZNrxmsQkUkZl8OxV1djiAyMeYd8pU4UVaCOChNXlrOLL9LLoq_-SvMg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "11 hours ago",
+        "hours_ago": "12 hours ago",
         "is_short": 0,
         "timestamp": "1765897201",
         "remove": 0
@@ -384,7 +410,7 @@
         "channel_name": "PaulJLipsky",
         "channel_link": "https:\/\/www.youtube.com\/@PaulJLipsky",
         "channel_image": "https:\/\/yt3.ggpht.com\/ABQ6aFf51m-8plR4kJ-pJNUOrVf_X5OISauKR7XVS56EBriwvKj4aQus5X1cHHjLLCcqPE-LsA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "36 hours ago",
+        "hours_ago": "37 hours ago",
         "is_short": 0,
         "timestamp": "1765807205",
         "remove": 0
@@ -410,7 +436,7 @@
         "channel_name": "airevolutionx",
         "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
         "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "51 hours ago",
+        "hours_ago": "52 hours ago",
         "is_short": 0,
         "timestamp": "1765752982",
         "remove": 0
@@ -462,7 +488,7 @@
         "channel_name": "PaulJLipsky",
         "channel_link": "https:\/\/www.youtube.com\/@PaulJLipsky",
         "channel_image": "https:\/\/yt3.ggpht.com\/ABQ6aFf51m-8plR4kJ-pJNUOrVf_X5OISauKR7XVS56EBriwvKj4aQus5X1cHHjLLCcqPE-LsA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "60 hours ago",
+        "hours_ago": "61 hours ago",
         "is_short": 0,
         "timestamp": "1765720805",
         "remove": 0
@@ -553,7 +579,7 @@
         "channel_name": "AI.NowYKnow",
         "channel_link": "https:\/\/www.youtube.com\/@AI.NowYKnow",
         "channel_image": "https:\/\/yt3.ggpht.com\/Bxj-iS9TR8QEVO_Pbg7G1TTlPa91rDRU9alc9b-bT1f6iyZpnsXmpi4g_C4L2Nc7rri8Xp2SR9Q=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "77 hours ago",
+        "hours_ago": "78 hours ago",
         "is_short": 0,
         "timestamp": "1765659141",
         "remove": 0
