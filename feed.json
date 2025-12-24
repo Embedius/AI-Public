@@ -1,5 +1,18 @@
 [
     {
+        "video_id": "KaWQ2Ua9CW8",
+        "video_title": "We have a new #1 open source AI",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/KaWQ2Ua9CW8\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=KaWQ2Ua9CW8",
+        "channel_name": "theAIsearch",
+        "channel_link": "https:\/\/www.youtube.com\/@theAIsearch",
+        "channel_image": "https:\/\/yt3.ggpht.com\/GV5UTW2IlP29PhsLKm65ue4LZYXxMyPV5YQdfE6GVgv9KH1_y_8kCirPGfpVn9yTJuNBvVHktEE=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "4 hours ago",
+        "is_short": 0,
+        "timestamp": "1766547022",
+        "remove": 0
+    },
+    {
         "video_id": "iHyK-CW3ciI",
         "video_title": "OpenAI Releases ChatGPT AI Agent Skills",
         "video_image": "https:\/\/i.ytimg.com\/vi\/iHyK-CW3ciI\/maxresdefault.jpg",
@@ -13,16 +26,16 @@
         "remove": 0
     },
     {
-        "video_id": "TAgOa89ZuS4",
-        "video_title": "Ultimate Comet Beginner's Guide: Getting Started & App Demos",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/TAgOa89ZuS4\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=TAgOa89ZuS4",
-        "channel_name": "toolfinderhq",
-        "channel_link": "https:\/\/www.youtube.com\/@toolfinderhq",
-        "channel_image": "https:\/\/yt3.ggpht.com\/F-ue2V2ghvgHMCVkNH4WwsSRfD8AH3goM1Y6HFat_1AgjOqzIqrz6Jx1SVVlHUSQQ9zBpb22DK0=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "39 hours ago",
+        "video_id": "_uo7CXd33Uc",
+        "video_title": "NVIDIA\u2019s AI Finally Solved Walking In Games",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/_uo7CXd33Uc\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=_uo7CXd33Uc",
+        "channel_name": "TwoMinutePapers",
+        "channel_link": "https:\/\/www.youtube.com\/@TwoMinutePapers",
+        "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_ljAkSpv16cJNUsE_rI1X-Kz9s78w1WNojUga-aZ1uVzEQ=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "64 hours ago",
         "is_short": 0,
-        "timestamp": "1766419244",
+        "timestamp": "1766328389",
         "remove": 0
     },
     {
@@ -39,16 +52,29 @@
         "remove": 0
     },
     {
-        "video_id": "jotlNpIASmM",
-        "video_title": "Confluence's Rovo AI: Tutorial & Walkthrough",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/jotlNpIASmM\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=jotlNpIASmM",
-        "channel_name": "toolfinderhq",
-        "channel_link": "https:\/\/www.youtube.com\/@toolfinderhq",
-        "channel_image": "https:\/\/yt3.ggpht.com\/F-ue2V2ghvgHMCVkNH4WwsSRfD8AH3goM1Y6HFat_1AgjOqzIqrz6Jx1SVVlHUSQQ9zBpb22DK0=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "89 hours ago",
+        "video_id": "JxrVtFER1Q8",
+        "video_title": "Insane 3D models, realtime AI video, new #1 open model, realtime AI worlds, Gemini 3 Flash: AI NEWS",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/JxrVtFER1Q8\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=JxrVtFER1Q8",
+        "channel_name": "theAIsearch",
+        "channel_link": "https:\/\/www.youtube.com\/@theAIsearch",
+        "channel_image": "https:\/\/yt3.ggpht.com\/GV5UTW2IlP29PhsLKm65ue4LZYXxMyPV5YQdfE6GVgv9KH1_y_8kCirPGfpVn9yTJuNBvVHktEE=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "76 hours ago",
         "is_short": 0,
-        "timestamp": "1766240124",
+        "timestamp": "1766287827",
+        "remove": 0
+    },
+    {
+        "video_id": "bFgTxr5yst0",
+        "video_title": "Mac Studio Cluster: 100x Faster than Ethernet? (RDMA Tested)",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/bFgTxr5yst0\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=bFgTxr5yst0",
+        "channel_name": "NetworkChuck",
+        "channel_link": "https:\/\/www.youtube.com\/@NetworkChuck",
+        "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_k01-_GpvVZW8w4ULtaQaa55ls8aMf2a5dXhIe56pjMvG0=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "86 hours ago",
+        "is_short": 0,
+        "timestamp": "1766249904",
         "remove": 0
     }
 ]
