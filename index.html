@@ -241,14 +241,33 @@
                         </li>
                     </ul>
                 </div>
-            </div><div id='main'><div id='videos'></div></div>
+            </div><div id='main'><div id='videos'>
+                            <div class='card' data-index='0'>
+                                <div class='hero'>
+                                    <div class='loading' id='loading-ogegeJhBRng'>
+                                        <svg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'> <path d='M17.6566 12H21M3 12H6.34315M12 6.34342L12 3M12 21L12 17.6569' stroke='#363853' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'></path> <path d='M16 8.00025L18.3642 5.63611M5.63629 18.364L8.00025 16M8.00022 8.00025L5.63608 5.63611M18.364 18.364L16 16' stroke='#0095FF' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'></path> </g></svg>
+                                    </div>
+                                    <img id='remove-ogegeJhBRng' future='https://i.ytimg.com/vi/ogegeJhBRng/maxresdefault.jpg'/>
+                                    <div id='player-ogegeJhBRng'></div>
+                                </div>
+                                <div class='about'>
+                                    <div class='image'>
+                                        <img future='https://yt3.ggpht.com/5_3VwTn9YD0bH3TtcY8ZNrxmsQkUkZl8OxV1djiAyMeYd8pU4UVaCOChNXlrOLL9LLoq_-SvMg=s88-c-k-c0x00ffffff-no-rj'>
+                                    </div>
+                                    <div class='text'>
+                                        <h3>Affinity vs Photoshop: Time to Switch... Really?</h3>
+                                        <p>PiXimperfect, 40 hours ago</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div></div>
                 <script>
                     let tag = document.createElement("script");
                     tag.src = "https://www.youtube.com/iframe_api";
                     let firstScriptTag = document.getElementsByTagName("script")[0];
                     firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
                     let players = [];
-                    let videos = []
+                    let videos = [{"video_id":"ogegeJhBRng","video_title":"Affinity vs Photoshop: Time to Switch... Really?","video_image":"https:\/\/i.ytimg.com\/vi\/ogegeJhBRng\/maxresdefault.jpg","video_link":"https:\/\/www.youtube.com\/watch?v=ogegeJhBRng","channel_name":"PiXimperfect","channel_link":"https:\/\/www.youtube.com\/@PiXimperfect","channel_image":"https:\/\/yt3.ggpht.com\/5_3VwTn9YD0bH3TtcY8ZNrxmsQkUkZl8OxV1djiAyMeYd8pU4UVaCOChNXlrOLL9LLoq_-SvMg=s88-c-k-c0x00ffffff-no-rj","hours_ago":"40 hours ago","is_short":0,"timestamp":"1766762521","remove":0}]
                     let initializedPlayers = new Set();
                     function onYouTubeIframeAPIReady() {
                         const observer = new IntersectionObserver((entries, observer) => {
