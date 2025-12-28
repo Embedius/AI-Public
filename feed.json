@@ -1,5 +1,18 @@
 [
     {
+        "video_id": "9Yhhwr0dyS4",
+        "video_title": "How to Get 10x Better Results with Google Gemini",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/9Yhhwr0dyS4\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=9Yhhwr0dyS4",
+        "channel_name": "aiadvantage",
+        "channel_link": "https:\/\/www.youtube.com\/@aiadvantage",
+        "channel_image": "https:\/\/yt3.ggpht.com\/DvaUGxvtI8_VHscLePaF-JO0kMrzluLkGQWDIOtbHvAkmlRaX_gh3YATlFu8046lrNjBQ0cmIw=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "32 hours ago",
+        "is_short": 0,
+        "timestamp": "1766791700",
+        "remove": 0
+    },
+    {
         "video_id": "ogegeJhBRng",
         "video_title": "Affinity vs Photoshop: Time to Switch... Really?",
         "video_image": "https:\/\/i.ytimg.com\/vi\/ogegeJhBRng\/maxresdefault.jpg",
@@ -10,6 +23,32 @@
         "hours_ago": "40 hours ago",
         "is_short": 0,
         "timestamp": "1766762521",
+        "remove": 0
+    },
+    {
+        "video_id": "1gWCG6mrhjc",
+        "video_title": "NANO BANANA PRO + GOOGLE EARTH Can Save Architects HOURS of TIME",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/1gWCG6mrhjc\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=1gWCG6mrhjc",
+        "channel_name": "salmaanarchitect",
+        "channel_link": "https:\/\/www.youtube.com\/@salmaanarchitect",
+        "channel_image": "https:\/\/yt3.ggpht.com\/fJbE6GsCVwxNMXK_d11Epo7abf53TNLj6Um9lgBJHvWzDD9KrK9mDBzxD9JUzHJKaZ-W7v2D=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "86 hours ago",
+        "is_short": 0,
+        "timestamp": "1766600039",
+        "remove": 0
+    },
+    {
+        "video_id": "kNgoo0l6mPE",
+        "video_title": "The Future Of Amazon Merch Sellers w\/ Jose Quiles | Print on Demand Wisdom #40",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/kNgoo0l6mPE\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=kNgoo0l6mPE",
+        "channel_name": "PhilipAnders",
+        "channel_link": "https:\/\/www.youtube.com\/@PhilipAnders",
+        "channel_image": "https:\/\/yt3.ggpht.com\/ZvhtfNEUPtQv3sLp9esMrY4KZ899xlTHhirFcF6X1LoLJSCQIRDD80cILJcaw1czth7OdEL79Q=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "89 hours ago",
+        "is_short": 0,
+        "timestamp": "1766589316",
         "remove": 0
     }
 ]
