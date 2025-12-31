@@ -1,5 +1,18 @@
 [
     {
+        "video_id": "xYIfpxKhJHA",
+        "video_title": "This New AI Lets You Build Viral Apps Just By Thinking About It",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/xYIfpxKhJHA\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=xYIfpxKhJHA",
+        "channel_name": "airevolutionx",
+        "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
+        "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "8 hours ago",
+        "is_short": 0,
+        "timestamp": "1767138315",
+        "remove": 0
+    },
+    {
         "video_id": "LEvqQvPlbok",
         "video_title": "Meta Just Bought Manus AI's Agent Tool\u2014 Here\u2019s the Money Play They're Keeping Quiet (B4 Regulation)",
         "video_image": "https:\/\/i.ytimg.com\/vi\/LEvqQvPlbok\/maxresdefault.jpg",
@@ -20,7 +33,7 @@
         "channel_name": "AIDailyBrief",
         "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
         "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "16 hours ago",
+        "hours_ago": "17 hours ago",
         "is_short": 0,
         "timestamp": "1767109046",
         "remove": 0
@@ -33,7 +46,7 @@
         "channel_name": "NickPonte808",
         "channel_link": "https:\/\/www.youtube.com\/@NickPonte808",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nou5Fs76G4sF_ombPr23BNBlID-p0jJ6N3AI3tWt_kPKA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "16 hours ago",
+        "hours_ago": "17 hours ago",
         "is_short": 0,
         "timestamp": "1767108622",
         "remove": 0
@@ -46,7 +59,7 @@
         "channel_name": "brainprojectx",
         "channel_link": "https:\/\/www.youtube.com\/@brainprojectx",
         "channel_image": "https:\/\/yt3.ggpht.com\/u7k_buhaC8AChKl39KD24BEUfdbDcIuf0zJ4Sopp6pGsy2em5ZBixgY-YxLbjTQ7ZbJKZ7oivA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "17 hours ago",
+        "hours_ago": "18 hours ago",
         "is_short": 0,
         "timestamp": "1767105212",
         "remove": 0
@@ -101,6 +114,19 @@
         "hours_ago": "32 hours ago",
         "is_short": 0,
         "timestamp": "1767053215",
+        "remove": 0
+    },
+    {
+        "video_id": "IpOiRmAEle8",
+        "video_title": "They Just Built a New Form of AI, and It\u2019s Better Than LLMs",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/IpOiRmAEle8\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=IpOiRmAEle8",
+        "channel_name": "airevolutionx",
+        "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
+        "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "32 hours ago",
+        "is_short": 0,
+        "timestamp": "1767052863",
         "remove": 0
     },
     {
@@ -163,7 +189,7 @@
         "channel_name": "openart_ai",
         "channel_link": "https:\/\/www.youtube.com\/@openart_ai",
         "channel_image": "https:\/\/yt3.ggpht.com\/p39dy5K7y1p4S83eyGKAIGtKq-z5-jjGCNJneNMMlP5nWS7YKgrGeG02PMWxZiTvEUFeTOWGseg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "40 hours ago",
+        "hours_ago": "41 hours ago",
         "is_short": 0,
         "timestamp": "1767022757",
         "remove": 0
@@ -176,7 +202,7 @@
         "channel_name": "NickPonte808",
         "channel_link": "https:\/\/www.youtube.com\/@NickPonte808",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nou5Fs76G4sF_ombPr23BNBlID-p0jJ6N3AI3tWt_kPKA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "40 hours ago",
+        "hours_ago": "41 hours ago",
         "is_short": 0,
         "timestamp": "1767022226",
         "remove": 0
@@ -202,7 +228,7 @@
         "channel_name": "malvaAI",
         "channel_link": "https:\/\/www.youtube.com\/@malvaAI",
         "channel_image": "https:\/\/yt3.ggpht.com\/7xYIzjHUw7X4JsUjyrI2ywnrXzGDvl18Hhdi9MKzoIJkBQbitpBWzoC_5gAykHpjnP7-Wz-1cg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "43 hours ago",
+        "hours_ago": "44 hours ago",
         "is_short": 0,
         "timestamp": "1767011447",
         "remove": 0
@@ -228,7 +254,7 @@
         "channel_name": "RandomAI_ss",
         "channel_link": "https:\/\/www.youtube.com\/@RandomAI_ss",
         "channel_image": "https:\/\/yt3.ggpht.com\/7XqvJe6KRh81mxw1HD_I2DVxJTPyt3yYm0CQB4dsS8rpVZNCNVaixsN7rdqf_tdGK-7y2mQ1=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "62 hours ago",
+        "hours_ago": "63 hours ago",
         "is_short": 0,
         "timestamp": "1766943056",
         "remove": 0
@@ -241,9 +267,22 @@
         "channel_name": "brainprojectx",
         "channel_link": "https:\/\/www.youtube.com\/@brainprojectx",
         "channel_image": "https:\/\/yt3.ggpht.com\/u7k_buhaC8AChKl39KD24BEUfdbDcIuf0zJ4Sopp6pGsy2em5ZBixgY-YxLbjTQ7ZbJKZ7oivA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "63 hours ago",
+        "hours_ago": "64 hours ago",
         "is_short": 0,
         "timestamp": "1766939461",
+        "remove": 0
+    },
+    {
+        "video_id": "Kc7xo710I2U",
+        "video_title": "Create Fashion Images & Videos in 1 Click \u2013 Higgsfield AI Stylist + Urban Cuts",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/Kc7xo710I2U\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=Kc7xo710I2U",
+        "channel_name": "CreativePadMedia",
+        "channel_link": "https:\/\/www.youtube.com\/@CreativePadMedia",
+        "channel_image": "https:\/\/yt3.ggpht.com\/vn3weQmL6hjvA2gexqrQCrFwfzvt_fLIZbTbWfz3_U6-cZPoGm_6wdL8wKNAk8VnU3AIJboQ=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "65 hours ago",
+        "is_short": 0,
+        "timestamp": "1766936319",
         "remove": 0
     },
     {
@@ -351,6 +390,19 @@
         "remove": 0
     },
     {
+        "video_id": "O6qrzEqAP7A",
+        "video_title": "AI at CES 2026 Is Insane: Here\u2019s What\u2019s Coming",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/O6qrzEqAP7A\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=O6qrzEqAP7A",
+        "channel_name": "airevolutionx",
+        "channel_link": "https:\/\/www.youtube.com\/@airevolutionx",
+        "channel_image": "https:\/\/yt3.ggpht.com\/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "82 hours ago",
+        "is_short": 0,
+        "timestamp": "1766874565",
+        "remove": 0
+    },
+    {
         "video_id": "1KUKh7TofLg",
         "video_title": "The 5 Most Impactful AI Model Releases of 2025",
         "video_image": "https:\/\/i.ytimg.com\/vi\/1KUKh7TofLg\/maxresdefault.jpg",
@@ -358,7 +410,7 @@
         "channel_name": "AIDailyBrief",
         "channel_link": "https:\/\/www.youtube.com\/@AIDailyBrief",
         "channel_image": "https:\/\/yt3.ggpht.com\/Lmzbtex5T5--hgnqhJcfylQrGrN0QcszvgP4hhF1HwSQf1vlngIv_QTfVsmx6rP5Zqecf2R5q7A=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "83 hours ago",
+        "hours_ago": "84 hours ago",
         "is_short": 0,
         "timestamp": "1766867566",
         "remove": 0
@@ -371,7 +423,7 @@
         "channel_name": "brainprojectx",
         "channel_link": "https:\/\/www.youtube.com\/@brainprojectx",
         "channel_image": "https:\/\/yt3.ggpht.com\/u7k_buhaC8AChKl39KD24BEUfdbDcIuf0zJ4Sopp6pGsy2em5ZBixgY-YxLbjTQ7ZbJKZ7oivA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "88 hours ago",
+        "hours_ago": "89 hours ago",
         "is_short": 0,
         "timestamp": "1766849746",
         "remove": 0
@@ -384,7 +436,7 @@
         "channel_name": "NickPonte808",
         "channel_link": "https:\/\/www.youtube.com\/@NickPonte808",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nou5Fs76G4sF_ombPr23BNBlID-p0jJ6N3AI3tWt_kPKA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "88 hours ago",
+        "hours_ago": "89 hours ago",
         "is_short": 0,
         "timestamp": "1766849419",
         "remove": 0
@@ -436,7 +488,7 @@
         "channel_name": "NickPonte808",
         "channel_link": "https:\/\/www.youtube.com\/@NickPonte808",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_nou5Fs76G4sF_ombPr23BNBlID-p0jJ6N3AI3tWt_kPKA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "93 hours ago",
+        "hours_ago": "94 hours ago",
         "is_short": 0,
         "timestamp": "1766831873",
         "remove": 0
