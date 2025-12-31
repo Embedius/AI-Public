@@ -1,18 +1,5 @@
 [
     {
-        "video_id": "GTdpZf6OslM",
-        "video_title": "AI Landscape Design Workflow | Nano Banana Pro Prompts Shared",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/GTdpZf6OslM\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=GTdpZf6OslM",
-        "channel_name": "LandSpaceArchitecture",
-        "channel_link": "https:\/\/www.youtube.com\/@LandSpaceArchitecture",
-        "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_l-xhoSTetGIYFnmsAMo4k2P0GSM28zXKGXzEpwFMPteM8=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "61 hours ago",
-        "is_short": 0,
-        "timestamp": "1766934313",
-        "remove": 0
-    },
-    {
         "video_id": "NCzpFv9Byus",
         "video_title": "The Nvidia Groq Acquisition Explained",
         "video_image": "https:\/\/i.ytimg.com\/vi\/NCzpFv9Byus\/maxresdefault.jpg",
@@ -23,6 +10,19 @@
         "hours_ago": "62 hours ago",
         "is_short": 0,
         "timestamp": "1766930440",
+        "remove": 0
+    },
+    {
+        "video_id": "1IZMwC3oDfc",
+        "video_title": "New open Nano Banana, AI plays any video game, new top open source models, long videos: AI NEWS",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/1IZMwC3oDfc\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=1IZMwC3oDfc",
+        "channel_name": "theAIsearch",
+        "channel_link": "https:\/\/www.youtube.com\/@theAIsearch",
+        "channel_image": "https:\/\/yt3.ggpht.com\/GV5UTW2IlP29PhsLKm65ue4LZYXxMyPV5YQdfE6GVgv9KH1_y_8kCirPGfpVn9yTJuNBvVHktEE=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "73 hours ago",
+        "is_short": 0,
+        "timestamp": "1766892460",
         "remove": 0
     }
 ]
