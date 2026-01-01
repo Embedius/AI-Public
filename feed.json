@@ -1,5 +1,18 @@
 [
     {
+        "video_id": "-3DVJu72VhE",
+        "video_title": "Long continuous AI video is here! Free & open-source",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/-3DVJu72VhE\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=-3DVJu72VhE",
+        "channel_name": "theAIsearch",
+        "channel_link": "https:\/\/www.youtube.com\/@theAIsearch",
+        "channel_image": "https:\/\/yt3.ggpht.com\/GV5UTW2IlP29PhsLKm65ue4LZYXxMyPV5YQdfE6GVgv9KH1_y_8kCirPGfpVn9yTJuNBvVHktEE=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "4 hours ago",
+        "is_short": 0,
+        "timestamp": "1767238206",
+        "remove": 0
+    },
+    {
         "video_id": "tNzN4zJDOwE",
         "video_title": "\"\"I have never felt this much behind as a programmer\" - Andrej Karpathy",
         "video_image": "https:\/\/i.ytimg.com\/vi\/tNzN4zJDOwE\/maxresdefault.jpg",
@@ -10,32 +23,6 @@
         "hours_ago": "42 hours ago",
         "is_short": 0,
         "timestamp": "1767102317",
-        "remove": 0
-    },
-    {
-        "video_id": "xTyTYksT_do",
-        "video_title": "Architectural Diagrams in Minutes with Nano Banana Pro | Full Walkthrough with PROMPTS\ud83d\udd25",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/xTyTYksT_do\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=xTyTYksT_do",
-        "channel_name": "salmaanarchitect",
-        "channel_link": "https:\/\/www.youtube.com\/@salmaanarchitect",
-        "channel_image": "https:\/\/yt3.ggpht.com\/fJbE6GsCVwxNMXK_d11Epo7abf53TNLj6Um9lgBJHvWzDD9KrK9mDBzxD9JUzHJKaZ-W7v2D=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "44 hours ago",
-        "is_short": 0,
-        "timestamp": "1767093774",
-        "remove": 0
-    },
-    {
-        "video_id": "-FZr2j7lwjY",
-        "video_title": "Etsy Ads for Beginners: Find Out What Actually Works",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/-FZr2j7lwjY\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=-FZr2j7lwjY",
-        "channel_name": "GeorgeDMcConnell",
-        "channel_link": "https:\/\/www.youtube.com\/@GeorgeDMcConnell",
-        "channel_image": "https:\/\/yt3.ggpht.com\/Nd14uY9un3LNeAaH3fjOkZfc7ZQ4-OPoXIorNQp6CQ5QheKzlwAsMQCJttyh-exhYbb7ZZRXrTo=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "59 hours ago",
-        "is_short": 0,
-        "timestamp": "1767040201",
         "remove": 0
     },
     {
